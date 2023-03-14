@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i u^{a-z}" /etc/ssh/sshd-_config
+grep -i u^[{a-z]" /etc/ssh/sshd -config 
